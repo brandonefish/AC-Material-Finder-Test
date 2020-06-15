@@ -7,5 +7,12 @@ namespace AC_Test.Classes
 {
     public class Director
     {
+        public List<Materials> FindMaterialsList()
+        {
+            List<Materials> materialsList;
+            Controller con = new Controller();
+            materialsList = con.GetMaterials();
+            return materialsList;
+        }
     }
 }

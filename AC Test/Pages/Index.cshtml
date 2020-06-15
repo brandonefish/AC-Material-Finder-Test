@@ -14,7 +14,12 @@
             <form>
                 <div class="col-md-6">
                     <label>Name of Material: </label>
-                    <input type="text" name="Material" id="Material" value="@Model.MaterialName"/>
+                    <select name="MaterialSelect" id="MaterialSelect" size="1">
+                        @foreach (var Material in Model.MaterialsList)
+                        {
+                            @Material.MaterialName
+                        }
+                    </select>
                 </div>
                 <div class="col-md-6">
                     <label>Amount of Material You Have: </label>

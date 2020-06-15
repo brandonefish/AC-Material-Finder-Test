@@ -10,8 +10,6 @@ C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\bin\Debug\netcor
 C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\bin\Debug\netcoreapp3.1\AC Test.Views.dll
 C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\bin\Debug\netcoreapp3.1\AC Test.Views.pdb
 C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\AC Test.csprojAssemblyReference.cache
-C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\AC Test.csproj.CoreCompileInputs.cache
-C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\AC Test.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\AC Test.RazorAssemblyInfo.cache
 C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\AC Test.RazorAssemblyInfo.cs
 C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\AC Test.AssemblyInfoInputs.cache
@@ -35,3 +33,11 @@ C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcor
 C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\AC Test.pdb
 C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\AC Test.genruntimeconfig.cache
 C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\AC Test.csproj.CopyComplete
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\AC Test.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\AC Test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
