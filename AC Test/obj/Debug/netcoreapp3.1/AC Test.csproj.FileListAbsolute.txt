@@ -1,0 +1,37 @@
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\bin\Debug\netcoreapp3.1\AC Test.exe
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\bin\Debug\netcoreapp3.1\AC Test.deps.json
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\bin\Debug\netcoreapp3.1\AC Test.runtimeconfig.json
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\bin\Debug\netcoreapp3.1\AC Test.runtimeconfig.dev.json
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\bin\Debug\netcoreapp3.1\AC Test.dll
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\bin\Debug\netcoreapp3.1\AC Test.pdb
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\bin\Debug\netcoreapp3.1\AC Test.Views.dll
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\bin\Debug\netcoreapp3.1\AC Test.Views.pdb
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\AC Test.csprojAssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\AC Test.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\AC Test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\AC Test.RazorAssemblyInfo.cache
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\AC Test.RazorAssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\AC Test.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\AC Test.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\AC Test.TagHelpers.input.cache
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\AC Test.TagHelpers.output.cache
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\AC Test.RazorCoreGenerate.cache
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\AC Test.RazorTargetAssemblyInfo.cache
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\AC Test.RazorTargetAssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\AC Test.Views.pdb
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\staticwebassets\AC Test.StaticWebAssets.Manifest.cache
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\staticwebassets\AC Test.StaticWebAssets.xml
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\AC Test.dll
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\AC Test.pdb
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\AC Test.genruntimeconfig.cache
+C:\Users\brand\OneDrive\Desktop\AC-Material-Finder-Test\AC Test\obj\Debug\netcoreapp3.1\AC Test.csproj.CopyComplete

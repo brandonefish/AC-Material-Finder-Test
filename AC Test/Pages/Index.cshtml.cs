@@ -11,6 +11,10 @@ namespace AC_Test.Pages
     public class IndexModel : PageModel
     {
         private readonly ILogger<IndexModel> _logger;
+        [BindProperty]
+        public string MaterialName { get; set; }
+        [BindProperty]
+        public int Amount { get; set; }
 
         public IndexModel(ILogger<IndexModel> logger)
         {
@@ -18,6 +22,11 @@ namespace AC_Test.Pages
         }
 
         public void OnGet()
+        {
+
+        }
+
+        public void OnPost()
         {
 
         }

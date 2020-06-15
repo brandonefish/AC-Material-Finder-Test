@@ -5,6 +5,25 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1 class="display-4">Animal Crossing Recipe Finder</h1>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <form>
+                <div class="col-md-6">
+                    <label>Name of Material: </label>
+                    <input type="text" name="Material" id="Material" value="@Model.MaterialName"/>
+                </div>
+                <div class="col-md-6">
+                    <label>Amount of Material You Have: </label>
+                    <input type="text" name="Amount" id="Amount" value="@Model.Amount" />
+                </div>
+                <div class="col-md-6">
+                    <input type="submit" name="Submit" id="Submit" value="Submit" />
+                </div>
+            </form>
+        </div>
+    </div>
 </div>
